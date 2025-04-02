@@ -1,0 +1,243 @@
+  [
+    {
+      "category": "Environment%3A%20Waste%20Management",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20primary%20goal%20of%20Waste2Earn%20programs%3F",
+      "correct_answer": "Incentivize%20proper%20waste%20disposal%20through%20rewards",
+      "incorrect_answers": [
+        "Increase%20landfill%20capacity",
+        "Reduce%20government%20spending%20on%20waste%20management",
+        "Create%20more%20jobs%20in%20waste%20collection"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Recycling",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20of%20these%20materials%20typically%20has%20the%20highest%20recycling%20value%20in%20most%20Waste2Earn%20programs%3F",
+      "correct_answer": "Aluminum",
+      "incorrect_answers": [
+        "Glass",
+        "Paper",
+        "Plastic%20bags"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Waste%20Segregation",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20color%20is%20commonly%20associated%20with%20bins%20for%20organic%20waste%3F",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Blue",
+        "Yellow",
+        "Red"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Climate%20Change",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Approximately%20what%20percentage%20of%20global%20methane%20emissions%20comes%20from%20landfills%3F",
+      "correct_answer": "20%25",
+      "incorrect_answers": [
+        "5%25",
+        "50%25",
+        "75%25"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Technology",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which%20technology%20is%20used%20in%20advanced%20Waste2Earn%20programs%20to%20verify%20waste%20contributions%3F",
+      "correct_answer": "Blockchain",
+      "incorrect_answers": [
+        "Virtual%20Reality",
+        "Quantum%20Computing",
+        "Facial%20Recognition"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Plastic%20Pollution",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "By%20what%20year%20is%20the%20ocean%20predicted%20to%20contain%20more%20plastic%20by%20weight%20than%20fish%20if%20current%20trends%20continue%3F",
+      "correct_answer": "2050",
+      "incorrect_answers": [
+        "2030",
+        "2075",
+        "2100"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Waste%20Management",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which%20country%20pioneered%20the%20first%20large-scale%20Waste2Earn%20program%3F",
+      "correct_answer": "South%20Korea",
+      "incorrect_answers": [
+        "Germany",
+        "Sweden",
+        "Japan"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Circular%20Economy",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20term%20describes%20the%20economic%20system%20aimed%20at%20eliminating%20waste%20by%20continually%20reusing%20resources%3F",
+      "correct_answer": "Circular%20Economy",
+      "incorrect_answers": [
+        "Green%20Economy",
+        "Sustainable%20Development",
+        "Blue%20Economy"
+      ]
+    },
+    {
+      "category": "Environment%3A%20E-Waste",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which%20toxic%20heavy%20metal%20is%20commonly%20found%20in%20e-waste%3F",
+      "correct_answer": "Cadmium",
+      "incorrect_answers": [
+        "Titanium",
+        "Platinum",
+        "Magnesium"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Composting",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20these%20should%20NOT%20be%20added%20to%20a%20compost%20pile%3F",
+      "correct_answer": "Meat%20products",
+      "incorrect_answers": [
+        "Coffee%20grounds",
+        "Egg%20shells",
+        "Vegetable%20scraps"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Current%20Events",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20global%20treaty%20aims%20to%20end%20plastic%20pollution%20and%20is%20currently%20being%20negotiated%20as%20of%202024%3F",
+      "correct_answer": "Global%20Plastics%20Treaty",
+      "incorrect_answers": [
+        "Paris%20Agreement%20Extension",
+        "Basel%20Convention%20II",
+        "Ocean%20Conservation%20Pact"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Waste%20Statistics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Approximately%20how%20much%20food%20is%20wasted%20globally%20each%20year%3F",
+      "correct_answer": "1.3%20billion%20tons",
+      "incorrect_answers": [
+        "500%20million%20tons",
+        "3%20billion%20tons",
+        "750%20million%20tons"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Recycling%20Technology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20%27chemical%20recycling%27%20in%20the%20context%20of%20plastic%20waste%3F",
+      "correct_answer": "Breaking%20down%20polymers%20into%20their%20chemical%20components",
+      "incorrect_answers": [
+        "Using%20chemicals%20to%20clean%20plastics",
+        "Combining%20plastic%20with%20chemicals%20to%20create%20new%20materials",
+        "Testing%20plastics%20for%20chemical%20contamination"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Values",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20principle%20is%20central%20to%20environmental%20ethics%3F",
+      "correct_answer": "Responsibility%20to%20future%20generations",
+      "incorrect_answers": [
+        "Economic%20growth%20at%20all%20costs",
+        "Human%20comfort%20as%20the%20primary%20goal",
+        "Technological%20solutions%20can%20fix%20all%20problems"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Waste%20Segregation",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20waste%20category%20is%20typically%20the%20most%20challenging%20for%20automated%20sorting%20systems%3F",
+      "correct_answer": "Multi-layer%20packaging",
+      "incorrect_answers": [
+        "Glass%20bottles",
+        "Aluminum%20cans",
+        "Paper%20products"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Ocean%20Pollution",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What%20percentage%20of%20marine%20debris%20comes%20from%20land-based%20sources%3F",
+      "correct_answer": "80%25",
+      "incorrect_answers": [
+        "50%25",
+        "30%25",
+        "95%25"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Waste%20Innovation",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20innovative%20material%20is%20being%20developed%20from%20agricultural%20waste%20as%20an%20alternative%20to%20plastic%3F",
+      "correct_answer": "Mycelium-based%20packaging",
+      "incorrect_answers": [
+        "Carbon%20fiber",
+        "Synthetic%20rubber",
+        "Metallic%20alloys"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Current%20Events",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20country%20announced%20in%202024%20the%20world%27s%20largest%20investment%20in%20recycling%20infrastructure%3F",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "United%20States",
+        "China",
+        "Germany"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Waste%20Psychology",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What%20psychological%20phenomenon%20describes%20the%20tendency%20of%20people%20to%20value%20objects%20more%20once%20they%20own%20them%2C%20making%20it%20harder%20to%20discard%20items%3F",
+      "correct_answer": "Endowment%20Effect",
+      "incorrect_answers": [
+        "Sunk%20Cost%20Fallacy",
+        "Confirmation%20Bias",
+        "Cognitive%20Dissonance"
+      ]
+    },
+    {
+      "category": "Environment%3A%20Waste2Earn",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20type%20of%20rewards%20are%20most%20commonly%20offered%20in%20Waste2Earn%20programs%3F",
+      "correct_answer": "Digital%20tokens%20or%20credits",
+      "incorrect_answers": [
+        "Tax%20rebates",
+        "Physical%20goods",
+        "Employment%20opportunities"
+      ]
+    }
+  ]
+
