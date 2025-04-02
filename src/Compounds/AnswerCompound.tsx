@@ -24,11 +24,26 @@ export default function AnswerCompound() {
   const [finalResult, setFinalResult] = useState('')
   const [showFinishMessage, setShowFinishMessage] = useState(false)
   const [wrongClickedAnswer, setWrongClickedAnswer] = useState('')
+  const [correctAnswerPosition, setCorrectAnswerPosition] = useState(0)
 
-  const answersArray = [
+  // Function to shuffle array using Fisher-Yates algorithm
+  const shuffleArray = (array: string[]) => {
+    const shuffled = [...array]
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+    }
+    return shuffled
+  }
+
+  // Create and shuffle answers array
+  const answersArray = shuffleArray([
     QuestionsData[currentQuestion - 1].correct_answer,
-  ].concat(QuestionsData[currentQuestion - 1].incorrect_answers)
-  const correctAnswer = answersArray[0]
+    ...QuestionsData[currentQuestion - 1].incorrect_answers
+  ])
+  
+  // Find the position of correct answer in shuffled array
+  const correctAnswer = QuestionsData[currentQuestion - 1].correct_answer
 
   function checkAnswer(answer: string) {
     if (answer === correctAnswer) {
