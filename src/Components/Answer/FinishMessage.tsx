@@ -5,10 +5,12 @@ export default function FinishMessage() {
     <div className='finish-message'>
       Test is Over!
       <br />
-      You can close the browser now.
-      <br />
-      Check your mailbox for final results
-      <br />
+      <button className='finish-message-button'>
+        <a href='https://waste2earn.xyz'>
+          Return to the main page
+        </a>
+      </button>
+       
     </div>
   )
 }
